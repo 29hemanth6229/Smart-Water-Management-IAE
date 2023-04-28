@@ -9,3 +9,10 @@ Billing of the water consumed is done based on consumption of the water.
 Machine learning model is used to predict the amount of water required for the future puroposes.
 
 .apk file is provide, which is the built user- interface application
+
+Google drive link of Video Demonstration is in the "Video Demonstration" folder.
+
+Instructions how to use and download the App are mentioned in the folder.
+
+Pitch Deck Folder gives the link for Presenation Deck.
+
